@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+dist/
+
+/mongo
+.env
+
+# Yarn files
+.yarn/
+.pnp.*
+yarn-error.log
+
+# Log files
+*.log
+npm-debug.log*
+
+# VSCode and OS files
+.vscode/
+.idea/
+.DS_Store
